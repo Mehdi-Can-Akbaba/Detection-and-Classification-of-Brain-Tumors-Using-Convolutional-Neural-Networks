@@ -1,0 +1,7 @@
+# Detection and Classification of Brain Tumor Using Convolutional Neural Network
+
+## This project aims to use one of the deep learning methods, Convolutional Neural Network (CNN), for detecting and classifying brain tumors. Early diagnosis of brain tumors is crucial for patient health. In this context, automatic analysis of medical images can assist doctors in making accurate and timely decisions. 
+## • Data Collection and Preprocessing: The necessary brain MRI images for the project will be obtained from open datasets. The data will be appropriately preprocessed to ensure that the model can learn correctly (e.g., normalization, resizing). 
+## • Model Design and Training: The Convolutional Neural Network (CNN) architecture will be used, and the model will learn the different features of brain tumors through its various layers. The model will be trained with labeled data and optimized to make accurate classifications. 
+## • Model Evaluation and Results: After the training process, the model will be evaluated on test data, and its performance will be measured using metrics such as accuracy, precision, and recall. The results will demonstrate the model's success in the brain tumor classification task. 
+## • Application Areas of Results: This project aims to increase the use of automatic systems in brain tumor detection and classification. It is expected to provide a solution that will reduce the workload of radiologists and decrease the rate of misdiagnosis in clinical environments.
